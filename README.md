@@ -9,15 +9,15 @@ In the past, SEO has just involved using some <code>meta</code> tags in your <co
 
 ## Contents
 <ul>
-  <li>What is SEO?</li>
-  <li>Traditional SEO</li>
-  <li>Modern SEO</li>
-  <li>Facebook OpenGraph</li>
-  <li>Twitter</li>
-  <li>Structured Data</li> 
-  <li>robot.txt</li>
-  <li>AMP</li>
-  <li>Crucial Links</li>
+  <li><a href="https://github.com/aviginsburg/SEO-template#what-is-seo">What is SEO?</a></li>
+  <li><a href="https://github.com/aviginsburg/SEO-template#traditional-seo">Traditional SEO</a></li>
+  <li><a href="https://github.com/aviginsburg/SEO-template#modern-seo">Modern SEO</a></li>
+  <li><a href="https://github.com/aviginsburg/SEO-template#facebook-opengraph">Facebook OpenGraph</a></li>
+<!--   <li>Twitter</li> -->
+<!--   <li>Structured Data</li>  -->
+<!--   <li>robot.txt</li> -->
+<!--   <li>AMP</li> -->
+<!--   <li>Crucial Links</li> -->
 </ul>
 
 ### What is SEO?
