@@ -1,4 +1,4 @@
-# An SEO Template for Twitter and Facebook
+# An SEO Template for Facebook (Twitter, Schema, AMP, and debgugging coming soon)
 
 You can go straight to the SEO template by clicking <a href="./seo.html">here</a>, for more of an explanation keep reading.
 
@@ -14,7 +14,7 @@ In the past, SEO has just involved using some <code>meta</code> tags in your <co
   <li><a href="https://github.com/aviginsburg/SEO-template#modern-seo">Modern SEO</a></li>
   <li><a href="https://github.com/aviginsburg/SEO-template#facebook-opengraph">Facebook OpenGraph</a></li>
 <!--   <li>Twitter</li> -->
-<!--   <li>Structured Data</li>  -->
+<!--   <li>Schema.org</li>  -->
 <!--   <li>robot.txt</li> -->
 <!--   <li>AMP</li> -->
 <!--   <li>Crucial Links</li> -->
