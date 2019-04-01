@@ -1,4 +1,4 @@
-# An SEO Template for Facebook (Twitter, Schema, AMP, and debgugging coming soon)
+# An SEO Template for Facebook (Twitter, Schema, AMP, and debugging coming soon)
 
 You can go straight to the SEO template by clicking <a href="./seo.html">here</a>, for more of an explanation keep reading.
 
